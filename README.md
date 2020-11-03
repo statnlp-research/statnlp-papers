@@ -1,5 +1,12 @@
 # StatNLP Papers
 
+## 2020
+* [Position-Aware Tagging for Aspect Sentiment Triplet Extraction](2020/position_aware_aste.pdf)
+Lu Xu*, Hao Li*, Wei Lu, Lidong Bing, EMNLP 2020
+
+* [Aspect Sentiment Classification with Aspect-Specific Opinion Spans](2020/mcrf_absa.pdf)
+Lu Xu, Lidong Bing, Wei Lu, Fei Huang, EMNLP 2020
+
 ## 2019
 * [Dependency-Guided LSTM-CRF for Named Entity Recognition](2019/jie2019depner.pdf)
 Zhanming Jie and Wei Lu, EMNLP2019
